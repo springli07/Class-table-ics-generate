@@ -1,4 +1,8 @@
-# 大学课表生成日历工具
+# 大学课表生成日历工具 修自 https://github.com/Entropy-Xu/ClassTableICSGengrator
+
+## 新增内容
+- 右键可以编辑课程
+- 界面更美观（粉色）
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
