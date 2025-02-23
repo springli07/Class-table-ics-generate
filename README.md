@@ -133,3 +133,5 @@
 
 - 感谢所有为本项目做出贡献的开发者。
 - 感谢 [PySide6](https://www.qt.io/qt-for-python) 和 [icalendar](https://icalendar.readthedocs.io/en/latest/) 项目的支持。
+- 感谢 [ClassTableICSGengrato](https://github.com/Entropy-Xu/ClassTableICSGengrato)
+
